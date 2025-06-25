@@ -1,2 +1,3 @@
 This is a sample text file
 This work is going to conflict with branch 'footer'
+Editing this file for merge testing!

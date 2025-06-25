@@ -1,2 +1,3 @@
 This is a 3rd sample text file
-
+Fixing bug here...
+Bugs are fixed now.

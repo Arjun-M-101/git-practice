@@ -1,2 +1,2 @@
 This is a 2nd sample text file
-
+Fixed bug here!
